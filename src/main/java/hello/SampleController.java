@@ -25,6 +25,7 @@ public class SampleController {
         System.out.println("git push");
         System.out.println("replay git push");
         System.out.println("replay3 git push");
+        System.out.println("4th push");
 
         Scanner in = new Scanner(System.in);
         boolean end = false;
