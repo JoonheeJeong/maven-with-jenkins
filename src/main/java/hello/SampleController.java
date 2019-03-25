@@ -23,6 +23,7 @@ public class SampleController {
         SpringApplication.run(SampleController.class, args);
 
         System.out.println("git push");
+        System.out.println("replay git push");
 
         Scanner in = new Scanner(System.in);
         boolean end = false;
